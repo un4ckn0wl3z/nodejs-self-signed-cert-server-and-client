@@ -75,3 +75,7 @@ let response = await fetch("https://localhost:2443", {
 });
 let fetchHtml = await response.text();
 ```
+
+```
+https://stackoverflow.com/questions/45088006/nodejs-error-self-signed-certificate-in-certificate-chain/45088585
+```
